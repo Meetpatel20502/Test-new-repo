@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="<?php echo plugin_dir_url('megamenu/css/megamenu.scss') . 'megamenu.scss'; ?>" />
-<link rel="stylesheet" href="<?php echo content_url('uploads/maxmegamenu/style.css'); ?>" />
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/custom-templates/css/lib-min.css" />
-<!-- SIWS College Header -->
+
 <header class="siws-header">
     <!-- Top Header Menu -->
     <div class="top-header-menu-container">
