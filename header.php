@@ -1,12 +1,12 @@
 
 <header class="siws-header">
-    <!-- Top Header Menu -->
+    <!-- Top Header Menu testing data -->
     <div class="top-header-menu-container">
         <div class="siws-container top-menu-style">
             <?php
                 if (has_nav_menu('top_header_menu')) {
                     wp_nav_menu(array(
-                        'theme_location' => 'top_header_menu', // Registered location for the top header menu
+                        'theme_location' => 'top_header_menu_new', // Registered location for the top header menu
                         'container'      => 'nav',            // Wrap menu in a <nav> element
                         'container_class' => 'top-header-nav', // Class for the container
                         'menu_class'     => 'top-header-menu', // Class for the <ul> element
